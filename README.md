@@ -3,9 +3,9 @@
 This repository is a demo on how to do HTML/CSS.
 
 ## Links
-YouTube Demo: https://youtu.be/b4SZ4zDBrF0
-Portfolio Template here: https://bootstrapmade.com/ 
-HTML Basic Knowledge: https://www.w3schools.com/html/
+YouTube Demo: https://youtu.be/b4SZ4zDBrF0 <br>
+Portfolio Template here: https://bootstrapmade.com/ <br>
+HTML Basic Knowledge: https://www.w3schools.com/html/ <br>
 All different styles CSS can do: https://www.w3schools.com/cssref/
 
 ## How to Access Your Website without IntelliJ
