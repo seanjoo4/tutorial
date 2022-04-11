@@ -5,6 +5,7 @@ This repository is a demo on how to do HTML/CSS.
 ## Links
 YouTube Demo: https://youtu.be/b4SZ4zDBrF0 <br>
 Portfolio Template here: https://bootstrapmade.com/ <br>
+Another Simple, Clean Portfolio Template here: https://github.com/posquit0/hugo-awesome-identity <br>
 HTML Basic Knowledge: https://www.w3schools.com/html/ <br>
 All different styles CSS can do: https://www.w3schools.com/cssref/
 
